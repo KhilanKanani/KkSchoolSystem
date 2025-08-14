@@ -38,6 +38,8 @@ Live : https://kksystem.free.nf
 
 -----
 
+https://github.com/user-attachments/assets/5dca0f35-1d6b-480e-bb40-cbe19a917cb4
+
 * Home
 <img width="1920" height="1200" alt="Screenshot 2025-08-13 081158" src="https://github.com/user-attachments/assets/1af69f4d-2cac-4719-afd5-5610705517c8" />
 
@@ -46,6 +48,7 @@ Live : https://kksystem.free.nf
 
 * Student Dashboard
 <img width="1919" height="1030" alt="Screenshot 2025-08-14 094420" src="https://github.com/user-attachments/assets/08157efc-c804-4e19-b583-37cfb88075a8" />
+
 
 
 

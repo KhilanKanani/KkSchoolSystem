@@ -42,10 +42,10 @@ Live : https://kksystem.free.nf
 <img width="1920" height="1200" alt="Screenshot 2025-08-13 081158" src="https://github.com/user-attachments/assets/1af69f4d-2cac-4719-afd5-5610705517c8" />
 
 * Admin Dashboard
-* 
 <img width="1919" height="1037" alt="Screenshot 2025-08-14 094436" src="https://github.com/user-attachments/assets/13fc065d-c40b-442c-8b30-63ae1c16b8a8" />
 
 * Student Dashboard
 <img width="1919" height="1030" alt="Screenshot 2025-08-14 094420" src="https://github.com/user-attachments/assets/08157efc-c804-4e19-b583-37cfb88075a8" />
+
 
 
